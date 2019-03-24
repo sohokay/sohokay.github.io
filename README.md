@@ -10,4 +10,5 @@
 - [如何设置SSH密钥](https://github.com/sohokay/sohokay.github.io/blob/master/20190324-%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AESSH%E5%AF%86%E9%92%A5.md)
 
 
-### 关于一些记录
+### 一些记录
+- [windows装机常用软件推荐](https://github.com/sohokay/sohokay.github.io/blob/master/20190324-windows%E8%A3%85%E6%9C%BA%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.md)
