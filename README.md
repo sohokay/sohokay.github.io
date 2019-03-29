@@ -12,3 +12,4 @@
 ### 一些记录
 - [windows装机常用软件推荐](https://github.com/sohokay/sohokay.github.io/blob/master/20190324-windows%E8%A3%85%E6%9C%BA%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.md)
 - [windows下的Redis桌面管理工具](https://github.com/sohokay/sohokay.github.io/blob/master/20190329-windows%E4%B8%8B%E7%9A%84Redis%E5%8F%AF%E8%A7%86%E5%8C%96%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7.md)
+- [在centos7下安装部署Redis以及相关常用命令](https://github.com/sohokay/sohokay.github.io/blob/master/20190329-windows%E4%B8%8B%E7%9A%84Redis%E5%8F%AF%E8%A7%86%E5%8C%96%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7.md)
