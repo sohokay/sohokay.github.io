@@ -15,14 +15,14 @@ yum install redis
 这样就可以安装好了 
 
 ### 启动和配置
-启动redis
+启动Redis
 ```shell
 systemctl start redis 
 ```
 
 Redis配置文件在 `/etc/redis.conf` 可以使用vim命令去在线修改也可以把文件拖到本地修改后上传
 
-1.为了redis能被远程连接
+1.为了Redis能被远程连接
 ```shell
 bind 127.0.0.1
 ```
