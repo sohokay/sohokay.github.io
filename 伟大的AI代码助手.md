@@ -1,0 +1,3 @@
+- github-copilot 正在使用 全面 可直接生成整段代码
+- kite 使用过 行内提醒
+- tabnine 使用过 行内提醒
