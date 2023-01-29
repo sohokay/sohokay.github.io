@@ -1,7 +1,8 @@
 # 如何在github中使用SSH密钥
 
 ### SSH密钥是什么
-> 此处省略... 
+>
+> 此处省略...
 
 ### 如何创建密钥对
 
@@ -10,8 +11,8 @@
     3.  这时候会在C盘 C:\Users\[you computer user name]\.ssh 这里自动生成一个'.ssh'的目录
     4.  目录下面会有三个文件 'id_rsa'和'id_rsa.pub'就是一组密钥对
 
-
 ### 如何在github中使用
+
     1.  登陆你的GitHub账户 点击右上角你的头像 进入到'Settings'
     2.  选择左菜单栏'SSH and GPG keys' 然后点击'New SSH key'
     3.  打开你本地的'.ssh'目录下的'id_rsa.pub'文件 (使用记事本打开)
